@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael Carr</h1>
 <h3 align="center">A passionate frontend developer from United States</h3>
 
-- 🌱 I’m currently learning **Node.js, Express**
-
 - 👨‍💻 All of my projects are available at [https://michealcarr.netlify.app/](https://michealcarr.netlify.app/)
 
 - 💬 Ask me about **React, javascript, html, css**
