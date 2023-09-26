@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Michael Carr</h1>
-<h3 align="center">A passionate developer with a love of solving problems with code.</h3>
+<h3 align="center">A passionate developer with a love of solving problems using code.</h3>
 
 - 👨‍💻 All of my projects are available at [https://michealcarr.netlify.app](https://michealcarr.netlify.app)
 
 - 💬 Ask me about **Javascript, React, Node, MongoDB**
 
-- ⚡ Checkout my most recent project! **https://stockoptima.onrender.com**
+- ⚡ Check out my most recent project! **https://stockoptima.onrender.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
