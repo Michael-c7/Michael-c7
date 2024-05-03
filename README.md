@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael Carr</h1>
 <h3 align="center">A passionate developer who loves solving problems with code.</h3>
 
-- 🔭 I’m currently working on [bugBolt](https://github.com/Michael-c7/BugBolt) a bug tracker app.
+- 🔭 I’m currently working on [Yellow Page Comics](https://github.com/Michael-c7/yellow-page-comics) a modern comic book e-commerce site.
 
 - 👨‍💻 My favorite projects and case studies are at [https://michealcarr.netlify.app](https://michealcarr.netlify.app)
 
